@@ -2,7 +2,7 @@ import Core from './Core';
 import smoothscroll from 'smoothscroll-polyfill';
 import { getTranslate } from './utils/transform';
 import { lerp } from './utils/maths';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
 
 export default class extends Core {
     constructor(options = {}) {
