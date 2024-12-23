@@ -1,4 +1,5 @@
 {
+  "import": "json",
   "src": "./src/",
   "dest": "./dist/",
   "docs": {
